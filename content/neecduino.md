@@ -1,7 +1,8 @@
 Lista de material:
 
 * 1 PCB NEECDuino 
-* 6 Resistências 1kOhm (ou 100Ohm) 1/8W  ![Something](1KOhmR.jpg)
+* 6 Resistências 1kOhm (ou 100Ohm) 1/8W  
+![Something](1KOhmR.jpg)
 * 4 Resistências 10kOhm 1/8W
 * 3 Condensadores 100nF
 * 1 Condensador 330nF
